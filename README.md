@@ -1,4 +1,6 @@
-# Components
+## Architecture
+
+Проєкт реалізовано як WebДодаток з розділенням на FrontendWeb (SPA), BackendAPI (REST-сервіс) та FilmDatabase (реляційна БД). Для зберігання посилань на легальні платформи перегляду використовується окремий компонент ExternalPlatformsAdapter.
 
 ## Overview
 
